@@ -1,10 +1,10 @@
-=== Testionial Slider ===
-Contributors:Umarbajwa,websettler
+=== Testimonial Slider ===
+Contributors:umarbajwa,websettler
 Donate link: http://web-settler.com/testimonial-slider/
 Tags:banner rotator, best carousel slider, best post slider, best responsive slider, best slideshow, best slideshow plugin, bxslider, carousel,content, content slider, custom post type, feedback, gallery, jquery, responsive, sidebar, slider, slideshow, testimonial, widget, wpmu,simple testimonial, testimonial, testimonial slide, testimonial slider, testimonial with template
 Requires at least:3.1 
 Tested up to: 3.9.2
-Stable tag:3.0
+Stable tag:1.0
 License:GPLv2 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
