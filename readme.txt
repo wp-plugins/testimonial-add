@@ -1,14 +1,14 @@
 === Testimonial Slider ===
 Contributors:umarbajwa,websettler
 Donate link: http://web-settler.com/testimonial-slider/
-Tags:banner rotator, best carousel slider, best post slider, best responsive slider, best slideshow, best slideshow plugin, bxslider, carousel,content, content slider, custom post type, feedback, gallery, jquery, responsive, sidebar, slider, slideshow, testimonial, widget, wpmu,simple testimonial, testimonial, testimonial slide, testimonial slider, testimonial with template
+Tags:banner rotator, best carousel slider, best post slider, best responsive slider, best slideshow, best slideshow plugin, bxslider, carousel,content, content slider, custom post type, feedback, gallery, jquery, responsive, sidebar, slider, slideshow, testimonial, widget, wpmu,simple testimonial, testimonial, testimonial slide, testimonial slider, testimonial with template,posts slider,elegant slider,slider,simple slider,nivo slider, owl slider, posts, pages,widgets
 Requires at least:3.1 
 Tested up to: 3.9.2
 Stable tag:1.0
 License:GPLv2 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-testimonial Slider is a WordPress testimonial slider plugin with touch for mobile devices. You can slide custom post types with custom taxonomies.Carousel + single slide slider.
+Add testimonials and make beautiful and elegant sliders to display on your site, Very easy to use.
 
 ==Description==
 testimonial Slider is a WordPress testimonial slider plugin with touch for mobile devices. testimonial slider displays your blog's recent testimonial using beautiful slider. testimonial slider is light weight touch supported, responsive testimonial slider plugin.Simple and easy to use no coding skills required.
