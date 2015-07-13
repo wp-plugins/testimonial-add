@@ -6,7 +6,7 @@ function mpsp_slider_review($post){
 <style type="text/css">
 	#rate_button{
 		text-align: center;
-		padding:8% 15% 8% 10%;
+		padding:8% 10% 8% 10%;
 		background:#FFA635;font-size:22px;border:none;color:#fff; border-bottom:8px solid #E08A1C;
 		text-decoration: none;
 	}
@@ -16,7 +16,7 @@ function mpsp_slider_review($post){
 	}
 	#rate_button:active{
 		border: none;
-		padding-top: 19%;
+		padding-top: 9%;
 	}
 
 </style>

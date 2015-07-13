@@ -4,7 +4,7 @@ Donate link: http://web-settler.com/Testimonial-slider/
 Tags:banner rotator, best carousel slider, best post slider, best responsive slider, best slideshow, best slideshow plugin, bxslider, carousel,content, content slider, custom post type, feedback, gallery, jquery, responsive, sidebar, slider, slideshow, Testimonial, widget, wpmu,simple Testimonial, testimonial, testimonial slide, testimonial slider, testimonial with template,posts slider,elegant slider,slider,simple slider,nivo slider, owl slider, posts, pages,widgets,axelerant, client, customer, portfolio, quote, quotes, random, recommendation, reference, review, reviews, slider, testimonial, testimonials, WPML,best, content slider, responsive, responsive slider, sliders, super, testimonial, Testimonial Rotator, testimonial slider, testimonials, Testimonials Manager, Testimonials rotator, Testimonials Slider, top, Best testimonial slider, client testimonial slider, easy testimonial slider, Responsive testimonial slider, testimonial, testimonial plugin, Testimonial Rotator, testimonial slider, testimonial slider wordpress
 Requires at least:3.4 
 Tested up to:4.2
-Stable tag:1.0
+Stable tag:1.1
 License:GPLv2 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
