@@ -55,7 +55,7 @@ $pss = 'posts-slider';
 				<p>Ultimate Bar Plugin - <?php echo $tss_install_link; ?></p>
 				<img src="<?php echo plugins_url('imgs/msf.png',__FILE__); ?>" class="rc_plugin_thumb">
 				<p>Subscribe Form Plugin - <?php echo $msfp_install_link; ?></p>
-				<p>Need Help ? <br> Or Hire a developer : <a href="mailto:support@web-settler.com?subject=Posts Slider Support" "Email Us" target="_blank">Email Us</a> </p>
+				<p>Need Help ? <br> Or Hire us : <a href="mailto:support@web-settler.com?subject=Posts Slider Support" "Email Us" target="_blank">Email Us</a> </p>
 				</b>
 		</div>
 
