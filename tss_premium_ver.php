@@ -39,10 +39,7 @@ function tss_mpsp_tslider_premium_ver($post){
 	All Features Unlocked.
 </li>
 <li>
-	Fast Support.
-</li>
-<li>
-	Unlimited Updates.
+	Fast Premium Support.
 </li>
 <form method="POST" action="http://sites.fastspring.com/wpscrolltotop/product/testimonialspremiumplugin">
 <a href="http://sites.fastspring.com/wpscrolltotop/product/testimonialspremiumplugin" style='text-decoration: none;' target='_blank' onclick="this.parentNode.submit(); return false;"><div id='rate_button' style=''>Get Premium Version</div></a>
