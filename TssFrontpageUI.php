@@ -71,9 +71,7 @@ $pss = 'posts-slider';
 <li>
 	Unlimited Updates.
 </li>
-<form method="POST" action="http://sites.fastspring.com/wpscrolltotop/product/testimonialspremiumplugin">
-<a href="http://sites.fastspring.com/wpscrolltotop/product/testimonialspremiumplugin" style='text-decoration: none;' target='_blank' onclick="this.parentNode.submit(); return false;"><div id='rate_button' style=''>Get Premium Version</div></a>
-</form>
+<a href="http://web-settler.com/testimonials-plugin/" style='text-decoration: none;' target='_blank' onclick="this.parentNode.submit(); return false;"><div id='rate_button' style=''>Get Premium Version</div></a>
 			</div>
 		<div id='sec_right'>
 				<h3>Recommended Plugins</h3>
