@@ -22,7 +22,7 @@ function tss_mpsp_tslider_posts_shortcode($post){
     <p>For Testimonial list use following shortcode : <b>(Only Available for premium version users)</b></p>
     <p style='font-weight:bold; font-size:20px;'>[tss_list id='<?php echo $postid; ?>']</p>
 
-    <a href="http://web-settler.com/mailchimp-subscribe-form/" target="_blank" style="font-size:17px;" id="pr_msg_link"><i>To unlock list showcase Click Here</i></a>
+    <a href="http://web-settler.com/testimonials-plugin/" target="_blank" style="font-size:17px;" id="pr_msg_link"><i>To unlock list showcase Click Here</i></a>
     
 
     <?php

@@ -132,7 +132,7 @@ function tss_mpsp_slider_posts_settings($post){
       > <span style="color:red;">(Premium version Only)</span> </i></b>
           <br>
           <br>
-          <a href="http://web-settler.com/mailchimp-subscribe-form/" target="_blank" style="font-size:24px;" id="pr_msg_link"><i>Unlock All Templates and get more amazing features Click Here</i></a>
+          <a href="http://web-settler.com/testimonials-plugin/" target="_blank" style="font-size:24px;" id="pr_msg_link"><i>Unlock All Templates and get more amazing features Click Here</i></a>
 
 
   </div>
