@@ -30,6 +30,7 @@ Testimonial is a WordPress Testimonial plugin with touch for mobile devices. Tes
 
 
 == Screenshots ==
+For screenshots visit  : http://web-settler.com/Testimonial-slider/
 
 
 
