@@ -1,6 +1,6 @@
 === Testimonial ===
 Contributors:umarbajwa,websettler
-Donate link: http://web-settler.com/Testimonial-slider/
+Donate link: http://web-settler.com/testimonials-plugin/
 Tags:banner rotator, best carousel slider, best post slider, best responsive slider, best slideshow, best slideshow plugin, bxslider, carousel,content, content slider, custom post type, feedback, gallery, jquery, responsive, sidebar, slider, slideshow, Testimonial, widget, wpmu,simple Testimonial, testimonial, testimonial slide, testimonial slider, testimonial with template,posts slider,elegant slider,slider,simple slider,nivo slider, owl slider, posts, pages,widgets,axelerant, client, customer, portfolio, quote, quotes, random, recommendation, reference, review, reviews, slider, testimonial, testimonials, WPML,best, content slider, responsive, responsive slider, sliders, super, testimonial, Testimonial Rotator, testimonial slider, testimonials, Testimonials Manager, Testimonials rotator, Testimonials Slider, top, Best testimonial slider, client testimonial slider, easy testimonial slider, Responsive testimonial slider, testimonial, testimonials plugin, Testimonial Rotator, testimonial slider, testimonial slider wordpress,add testimonial,reviews,ratings,grid,list,testimonial viewer, testimonial list, customers,testimonials list,testimonials slider
 Requires at least:3.4 
 Tested up to:4.2
@@ -30,7 +30,7 @@ Testimonial is a WordPress Testimonial plugin with touch for mobile devices. Tes
 
 
 == Screenshots ==
-For screenshots visit  : http://web-settler.com/Testimonial-slider/
+For screenshots visit  : http://web-settler.com/testimonials-plugin/
 
 
 
