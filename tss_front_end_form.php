@@ -6,19 +6,19 @@ function tss_data_front_end_form() {
  
 <p><label for="title">Name</label><br />
  
-<input type="text" id="title" value=""  size="20" name="title"  />
+<input type="text" id="title" value="" tabindex="1" size="20" name="title"  />
  
 </p>
 
 <p><label for="tss_occupation">Occupation</label><br />
  
-<input type="text" id="tss_occupation" value=""  name="tss_occupation"  />
+<input type="text" id="tss_occupation" value="" tabindex="1" name="tss_occupation"  />
  
 </p>
 
 <p><label for="tss_image_input">Image URL</label><br />
  
-<input type="url" id="tss_image_input" value=""  name="tss_image_input" />
+<input type="url" id="tss_image_input" value="" tabindex="1" name="tss_image_input" />
  
 </p>
  
