@@ -16,6 +16,16 @@ Easy to setup Testimonial Plugin. Display your Testimonials in a beautiful and M
 
 Testimonial is a WordPress Testimonial plugin with touch for mobile devices. Testimonial displays your blog's recent Testimonial using beautiful slider. Testimonial is light weight touch supported, responsive Testimonial plugin.Simple and easy to use no coding skills required.
 
+<strong>Slider</strong>
+Built in slider lets you display your testimoials in an elegant slider. You can customize the colors and style of slider with five layouts.
+
+<strong>Testimonial List</strong>
+Built in list lets you display your testimonials in an elegant list. You can customize the colors and style of list with five layouts.
+
+
+
+
+
 * Responsive touch slider.
 * Carousel + single slide slider option.
 * Fully Customizable slider.
@@ -25,21 +35,18 @@ Testimonial is a WordPress Testimonial plugin with touch for mobile devices. Tes
 * Pre-designed layouts.
 * Front End submission form (Premium Version Feature)
 * Testimonial List View (Premium Version Feature)
+* Five slider layouts (Premium Version Feature)
 
 
 
 
 == Screenshots ==
+
 1. For more screenshots visit  : http://web-settler.com/testimonials-plugin/
-
 2. For more screenshots visit  : http://web-settler.com/testimonials-plugin/
-
 3. For more screenshots visit  : http://web-settler.com/testimonials-plugin/
-
 4. For more screenshots visit  : http://web-settler.com/testimonials-plugin/
-
 5. For more screenshots visit  : http://web-settler.com/testimonials-plugin/
-
 6. For more screenshots visit  : http://web-settler.com/testimonials-plugin/
 
 
