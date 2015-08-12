@@ -20,7 +20,7 @@ function mpsp_slider_review($post){
 	}
 
 </style>
-<p>Please Support us by rating us five stars, It matters alot.<br> <i>Thank you</i></p>
+<p>Please Support us by rating us five stars, It matters alot.</p>
 <a style='text-decoration: none; 'href="http://wordpress.org/support/view/plugin-reviews/post-slider#postform" target='_blank'><div id='rate_button' style=''>Rate This Plugin</div></a>
 
 
